@@ -1,5 +1,5 @@
--- drop database barbershop;
--- create database barbershop;
+-- drop database cosmetic-Solution;
+-- create database cosmetic-Solution;
 
 CREATE TABLE `service`
 (
